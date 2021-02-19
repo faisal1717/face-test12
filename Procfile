@@ -1,1 +1,1 @@
-web: gunicorn app:mainwindow.py
+worker: python mainwindow.py
